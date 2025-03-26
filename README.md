@@ -25,5 +25,5 @@ mysql -u your_username -p your_database_name < queries.sql
 ## **License**
 This repository is open for reference and learning purposes. Feel free to use and modify it as needed.
 ## **Contributors**
-- AdarshAgrawal(@AdarshAgrawal)
+- AdarshAgrawal([GitHub Profile](https://github.com/AgrawalAdarsh)
 For any issues or improvements, feel free to open a pull request or report an issue.
